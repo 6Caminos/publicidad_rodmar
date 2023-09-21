@@ -1,0 +1,17 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+  }
+
+  .i {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 38%;
+    transform: translatex(-35%);
+    width: 2%;
+
+  }
