@@ -2,12 +2,13 @@
 
 <div class="card">
     <div class="card__image-holder">
-        <img class="card__image" src="{{ $item['image'] }}" alt="image{{ $i }}" />
+        <img class="card__image" src="{{ $item['image'] }}" alt="{{ $item['alter'] }}" />
     </div>
     <div class="card-title">
        <br>
         <h2>
             {{ $item['title'] }}
+            
         
         </h2>
     </div>
