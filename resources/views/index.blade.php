@@ -5,7 +5,7 @@
     @section('contenido')
     
 
-<img class="img"src="{{ asset('imagenes/Vidrio y aluminio.jpg') }}">
+<img class="img"src="{{ asset('imagenes/vistas/Vidrio y aluminio.jpg') }}">
 <br>
 <br><br><br><br>
 @endsection

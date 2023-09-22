@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
   <head>
           <title>    
-          <img src="{{ asset('imagenes/LOGO.jpeg') }}">      
+
 Vidrio y Alumino RODMAR
           </title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -16,7 +17,7 @@ Vidrio y Alumino RODMAR
     <body>
 <header>  
 <section class="titulo">
-<td> <p>RODMAR</p>
+<td> <h2>RODMAR</h2>
 </section>
 </header> 
 <br>
@@ -47,7 +48,7 @@ Vidrio y Alumino RODMAR
 </nav>
 
 <header>
-    <section class="titulo">Vidrio y Aluminio</section>
+    <section class="titulo"><h1>Vidrio y Aluminio</h1> </section>
 </header>   
 <br>
 
@@ -125,13 +126,19 @@ Vidrio y Alumino RODMAR
             <a href="#!" class="text-reset">Puertas en Aluminio y Cristal</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">s</a>
+            <a href="/jardin" class="text-reset">Jardin</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Peceras</a>
+            <a href="/esquineros" class="text-reset">Esquineros</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Arreglos Florales y Coronas</a>
+            <a href="/hurnas" class="text-reset">Hurnas</a>
+          </p>
+          <p>
+            <a href="/peceras" class="text-reset">Peceras</a>
+          </p>
+          <p>
+            <a href="rutas" class="text-reset">Arreglos Florales y Coronas</a>
           </p>
         </div>
         <!-- Grid column --> <!-- Grid column -->
@@ -156,8 +163,8 @@ Vidrio y Alumino RODMAR
         <!-- Grid column -->
       </div>     <!-- Grid row -->   </div> </section> <!-- Section: Links  -->
   <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-    © 2022 Copyright:
+  <div class="copyright" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2022 RODMAR Vidrio y Aluminio. Todos los derechos reservados. Copyright:
     <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
   </div>
   <!-- Copyright -->
