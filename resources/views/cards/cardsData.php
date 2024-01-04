@@ -96,6 +96,13 @@ $cardsCanceles = [
         'short_description' => 'Short description for card 1...',
         'full_description' => 'Full description for card 1...',
     ],
+    [
+        'image' => 'imagenes\catalagos\canceles\cancel de baño marca de agua.jpg',
+        'alter' => 'alter',
+        'title' => 'Marca de agua',
+        'short_description' => 'Short description for card 1...',
+        'full_description' => 'Full description for card 1...',
+    ],
    
 ];
 

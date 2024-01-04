@@ -1,18 +1,18 @@
 <!-- card-modal.blade.php -->
 
 <div class="card">
-    <div class="card__image-holder">
-        <img class="card__image" src="{{ $item['image'] }}" alt="{{ $item['alter'] }}" />
-    </div>
-    <div class="card-title">
+     <div class="card-title">
        <br>
         <h2>
             {{ $item['title'] }}
-            
-        
         </h2>
+    </div> 
+    
+    <div class="card__image-holder">
+        <img class="card__image" src="{{ $item['image'] }}" alt="{{ $item['alter'] }}" />
     </div>
-    <div class="card-flap flap1">
+  
+    <div class="card-flap">
         <div class="card-description">
             {{ $item['short_description'] }}
         </div>
@@ -48,3 +48,5 @@
         </div>
     </div>
 </div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="../../../public/js/altura.js"></script>
