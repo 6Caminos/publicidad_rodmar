@@ -48,7 +48,7 @@
         <li><a href="/barandales">Barandales</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/">Informacion General</a></li>
+        <li><a href="#footer">Informacion General</a></li>
       </ul>
     </div>
   </nav>
