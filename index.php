@@ -73,7 +73,7 @@
                   <div><a title="Getting Started" href="https://laragon.org/docs">Getting Started</a></div>
                 </div>
             </div>
-
+<p>esto es un mesaje de confirmacion</p>
         </div>
     </body>
 </html>
